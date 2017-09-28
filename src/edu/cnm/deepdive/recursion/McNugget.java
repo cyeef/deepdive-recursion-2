@@ -34,7 +34,16 @@ public class McNugget {
   }
 
   public static void main(String[] args) {
-    System.out.println(test(34));
+  System.out.println(test(43));
+    //int[] packSizes = {5, 7, 13, 15};
+    //int[]packSizes;
+    //packSizes = new int[] {5, 7, 13, 15};
+   // packSizes = new int [4];
+    //packSizes[0] = 5;
+   // packSizes[1] = 8;
+   // packSizes[3] = 10;
+   // packSizes[4] = 12;
+   // System.out.println(test(95, new int[] {15, 12, 8}, 0));
 
   }
 
